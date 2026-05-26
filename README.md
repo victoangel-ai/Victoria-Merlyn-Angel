@@ -1,5 +1,5 @@
 # Victoria-Merlyn-Angel
-#👋 Hello, I'm Victoria!
+# 👋 Hello, I'm Victoria!
 Machine Learning Engineer & Data Scientist Bridging the gap between complex data architectures and creative, impactful solutions.
 
 # 💫 About Me:
